@@ -1,4 +1,4 @@
-package org.example.tasks;
+package org.example.tasks.october2023;
 
 public class Fix34 {
 

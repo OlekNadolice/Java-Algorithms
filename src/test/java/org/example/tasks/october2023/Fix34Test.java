@@ -1,5 +1,6 @@
-package org.example.tasks;
+package org.example.tasks.october2023;
 
+import org.example.tasks.october2023.Fix34;
 import org.junit.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

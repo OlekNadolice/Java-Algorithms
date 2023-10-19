@@ -1,7 +1,8 @@
-package org.example.tasks;
+package org.example.tasks.october2023;
 
 
 
+import org.example.tasks.october2023.MaxSpan;
 import org.junit.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

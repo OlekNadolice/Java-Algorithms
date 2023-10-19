@@ -1,9 +1,9 @@
-package org.example.tasks;
+package org.example.tasks.october2023;
 
+import org.example.tasks.october2023.WordCount;
 import org.junit.Test;
 
 import java.util.HashMap;
-import java.util.Map;
 
 import static org.junit.jupiter.api.Assertions.*;
 
